@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Parth - use the following cmd to start the server in your ide
+> npm start
 
 ## Available Scripts
 
