@@ -1,0 +1,10 @@
+.player__body{
+    display:flex;
+}
+
+.flex-02{
+    flex:0.15;
+}
+.flex-08{
+    flex:0.85;
+}
