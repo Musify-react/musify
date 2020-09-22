@@ -1,6 +1,3 @@
-**Admin - Parth909**
-# Parth - use the following cmd to start the server in your ide
-> npm start
 
 ## Available Scripts
 
