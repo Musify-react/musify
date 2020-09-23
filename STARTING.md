@@ -28,6 +28,6 @@ Do the following
 
 Assigning others or yourself as the reviewer won't work due to the organizations policy
 
-# If You Are Not Able To Do Anything Plz Contact Parth909 via whatsapp don't mess anything up
+# If You Are Not Able To Do Anything Plz Contact Parth909 via whatsapp or call him don't mess anything up
 
-# Happy Coding :V:
+# Happy Coding :v:
