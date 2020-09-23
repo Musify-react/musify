@@ -36,6 +36,7 @@ Do the following
 
 Assigning others or yourself as the reviewer won't work due to the project's organizations policy
 
-# If You Are Not Able To Do Anything Plz Contact Parth909 via whatsapp or call him don't mess anything up
+# If You Are Not Able To Do Anything Plz Contact Parth909 via whatsapp or call him don't do anything upside down
+- Otherwise the structure & branches will be difficult to deal with
 
 # Happy Coding :v:
