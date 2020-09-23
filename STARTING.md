@@ -3,12 +3,12 @@
 - As a member of the organization & member of the **Musify-devs** team u have the ability to pull the code in you folder
 
 1. Make a new folder on your machine
-2. Configure you github account on the machine 
-`git config --global user.name yourgithubname`
-`git config --global user.email yourgithubemail`
+2. Configure you github account on the machine \
+`git config --global user.name yourgithubname`\
+`git config --global user.email yourgithubemail`\
 3. Since you have write permissions no need to fork the repo
-4. Pull the repo on ur machine
-`git pull https://github.com/Musify-react/musify.git master `
+4. Pull the repo on ur machine\
+`git pull https://github.com/Musify-react/musify.git master `\
 5. ### Remember you shouldn't directly on the master branch Create ur own feature branch
 `git checkout -b YOURBRANCHNAME`
 - Then work on this Branch 
