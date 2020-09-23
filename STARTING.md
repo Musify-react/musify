@@ -12,7 +12,7 @@
 4. Pull the repo on ur machine\
 `git pull https://github.com/Musify-react/musify.git master `
 
-5. ### Remember you shouldn't directly on the master branch Create ur own feature branch \
+5. ## Remember you shouldn't directly on the master branch Create ur own feature branch<br/>
 `git checkout -b YOURBRANCHNAME`
 - Then work on this Branch
 
@@ -31,7 +31,7 @@
 10. Add **Parth909** as your code reviewer otherwise your code won't be added to the repo
 Do the following
   1. Click on Comp & Pull Request
-  2. On the right hand side top corner assign **Parth909** as the reviewer
+  2. On the right hand side top corner assign **@Parth909** as the reviewer
   3. Click on Create the Pull Request
 
 Assigning others or yourself as the reviewer won't work due to the organizations policy
