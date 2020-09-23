@@ -12,7 +12,7 @@
 4. Pull the repo on ur machine\
 `git pull https://github.com/Musify-react/musify.git master `
 
-5. ## Remember you shouldn't directly on the master branch Create ur own feature branch<br/>
+5. Remember you shouldn't directly on the master branch Create ur own feature branch\
 `git checkout -b YOURBRANCHNAME`
 - Then work on this Branch
 
