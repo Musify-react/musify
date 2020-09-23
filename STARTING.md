@@ -1,4 +1,4 @@
-# Steps to Contribute
+# Steps to Collaborate
 
 - As a member of the organization & member of the **Musify-devs** team u have the ability to pull the code in you folder
 
@@ -34,7 +34,7 @@ Do the following
   2. On the right hand side top corner assign **@Parth909** as the reviewer
   3. Click on Create the Pull Request
 
-Assigning others or yourself as the reviewer won't work due to the organizations policy
+Assigning others or yourself as the reviewer won't work due to the project's organizations policy
 
 # If You Are Not Able To Do Anything Plz Contact Parth909 via whatsapp or call him don't mess anything up
 
