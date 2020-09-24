@@ -2,7 +2,8 @@
 
 - As a member of the organization & member of the **Musify-devs** team u have the ability to pull the code in you folder
 
-1. Make a new folder on your machine
+1. Make a new folder on your machine then initialize empty git repo \
+`git init`
 
 2. Configure you github account on the machine \
 `git config --global user.name yourgithubname`\
