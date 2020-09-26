@@ -1,1 +1,1 @@
-console.log('Github');
+// Test file for some sample code
